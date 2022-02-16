@@ -21,9 +21,6 @@ namespace Library_management_system
 			this.Author = author;
 		}
 
-		public Book()
-		{
-		}
 
 		public Book(int id, string title, string author, string language, double price, int copies)
 		{
